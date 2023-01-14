@@ -5,3 +5,5 @@ module.exports = {
     odd,
     even
 }
+
+// module.exports === exports === {}
